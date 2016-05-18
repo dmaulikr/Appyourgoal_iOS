@@ -1,0 +1,56 @@
+PODS:
+  - Alamofire (3.0.0)
+  - Bolts (1.2.2):
+    - Bolts/AppLinks (= 1.2.2)
+    - Bolts/Tasks (= 1.2.2)
+  - Bolts/AppLinks (1.2.2):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.2.2)
+  - DKImagePickerController (2.2.0):
+    - DKImagePickerController/Camera (= 2.2.0)
+  - DKImagePickerController/Camera (2.2.0)
+  - FBSDKCoreKit (4.6.0):
+    - Bolts (~> 1.1)
+    - FBSDKCoreKit/arc (= 4.6.0)
+    - FBSDKCoreKit/no-arc (= 4.6.0)
+  - FBSDKCoreKit/arc (4.6.0):
+    - Bolts (~> 1.1)
+  - FBSDKCoreKit/no-arc (4.6.0):
+    - Bolts (~> 1.1)
+    - FBSDKCoreKit/arc
+  - FBSDKLoginKit (4.6.0):
+    - FBSDKCoreKit
+  - IQKeyboardManagerSwift (3.3.3.1)
+  - Kingfisher (1.6.1)
+  - Parse (1.8.5):
+    - Bolts/Tasks (>= 1.2.2)
+  - ReachabilitySwift (2.0)
+  - SVProgressHUD (1.1.3)
+  - TestFairy (1.4.8)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - DKImagePickerController
+  - FBSDKCoreKit
+  - FBSDKLoginKit
+  - IQKeyboardManagerSwift
+  - Kingfisher (~> 1.6)
+  - Parse
+  - ReachabilitySwift
+  - SVProgressHUD
+  - TestFairy
+
+SPEC CHECKSUMS:
+  Alamofire: b61782387f81bcc538a0284cf2bb5d7995cd0a80
+  Bolts: 20a2bd788273360cb1e31530dc19b8544eef2544
+  DKImagePickerController: 0bee76324473060232f8632ad33be4c8c660386a
+  FBSDKCoreKit: 9954492d90c5fd65ae831395697a1660360d61f1
+  FBSDKLoginKit: 3d07febbfa884b9878cacba54f705bb41f07d4b6
+  IQKeyboardManagerSwift: d1a0ee9e1c8a1e648b9331800b9dabc9c52f0c3d
+  Kingfisher: a40cf8134ba1a78f395bdd3ee97d386ff3c3be0d
+  Parse: 17ad8e0677ed682f7f00503860fcda0f4eb74168
+  ReachabilitySwift: 227b98ae7ec99e1c01148b17fb22357aa91a5675
+  SVProgressHUD: 748080e4f36e603f6c02aec292664239df5279c1
+  TestFairy: 9999055af23d8fc6b09f12337d08bd6cf2afe4fa
+
+COCOAPODS: 0.39.0
